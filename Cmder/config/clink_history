@@ -1,0 +1,16 @@
+|CTAG_1632666711_453828_5412_0
+|d ..
+|d ..
+cd Desktop
+|d EnderWork-main
+|ode .
+node index.js
+|d ..
+|d EnderWork-main
+|ode .
+|d ..
+|d EnderWork-main
+clear
+cd ..
+cd EnderWork-main
+node .
